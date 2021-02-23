@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    cout << "This is a file in the branch";
+    cout << "This is a file in the master";
 
     return 0;
 }
